@@ -1,0 +1,1290 @@
+[2019-08-07T11:29:36.026] [DEBUG] cheese - login => username:zs,password:123456
+[2019-08-07T11:29:36.034] [DEBUG] cheese - zs
+[2019-08-07T11:29:36.083] [DEBUG] cheese - null
+[2019-08-07T11:29:36.083] [DEBUG] cheese - null
+[2019-08-07T11:30:23.118] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T11:30:23.118] [DEBUG] cheese - admin
+[2019-08-07T11:30:23.124] [DEBUG] cheese - null
+[2019-08-07T11:30:23.124] [DEBUG] cheese - null
+[2019-08-07T19:51:55.748] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T19:51:55.749] [DEBUG] cheese - 123
+[2019-08-07T19:51:55.865] [DEBUG] cheese - null
+[2019-08-07T19:51:55.865] [DEBUG] cheese - null
+[2019-08-07T19:52:21.118] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T19:52:21.118] [DEBUG] cheese - admin
+[2019-08-07T19:52:21.125] [DEBUG] cheese - null
+[2019-08-07T19:52:21.125] [DEBUG] cheese - null
+[2019-08-07T19:53:57.219] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T19:53:57.219] [DEBUG] cheese - 123
+[2019-08-07T19:53:57.225] [DEBUG] cheese - null
+[2019-08-07T19:53:57.225] [DEBUG] cheese - null
+[2019-08-07T19:56:27.005] [DEBUG] cheese - login => username:123123,password:123123123123
+[2019-08-07T19:56:27.005] [DEBUG] cheese - 123123
+[2019-08-07T19:56:27.049] [DEBUG] cheese - null
+[2019-08-07T19:56:27.049] [DEBUG] cheese - null
+[2019-08-07T20:16:03.758] [DEBUG] cheese - login => username:1231,password:123123
+[2019-08-07T20:16:03.760] [DEBUG] cheese - 1231
+[2019-08-07T20:16:03.773] [DEBUG] cheese - null
+[2019-08-07T20:16:03.774] [DEBUG] cheese - null
+[2019-08-07T20:16:11.871] [DEBUG] cheese - login => username:1231,password:123123123
+[2019-08-07T20:16:11.871] [DEBUG] cheese - 1231
+[2019-08-07T20:16:11.897] [DEBUG] cheese - null
+[2019-08-07T20:16:11.897] [DEBUG] cheese - null
+[2019-08-07T20:17:29.552] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T20:17:29.552] [DEBUG] cheese - admin
+[2019-08-07T20:17:29.563] [DEBUG] cheese - null
+[2019-08-07T20:17:29.563] [DEBUG] cheese - null
+[2019-08-07T20:18:36.992] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T20:18:36.992] [DEBUG] cheese - 123
+[2019-08-07T20:18:37.001] [DEBUG] cheese - null
+[2019-08-07T20:18:37.001] [DEBUG] cheese - null
+[2019-08-07T20:18:54.792] [DEBUG] cheese - login => username:admin,password:123123
+[2019-08-07T20:18:54.792] [DEBUG] cheese - admin
+[2019-08-07T20:18:54.801] [DEBUG] cheese - null
+[2019-08-07T20:18:54.801] [DEBUG] cheese - null
+[2019-08-07T20:19:00.507] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T20:19:00.507] [DEBUG] cheese - admin
+[2019-08-07T20:19:00.511] [DEBUG] cheese - null
+[2019-08-07T20:19:00.512] [DEBUG] cheese - null
+[2019-08-07T20:19:43.171] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T20:19:43.171] [DEBUG] cheese - admin
+[2019-08-07T20:19:43.175] [DEBUG] cheese - null
+[2019-08-07T20:19:43.175] [DEBUG] cheese - null
+[2019-08-07T20:21:15.648] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T20:21:15.649] [DEBUG] cheese - admin
+[2019-08-07T20:21:15.656] [DEBUG] cheese - null
+[2019-08-07T20:21:15.656] [DEBUG] cheese - null
+[2019-08-07T20:22:15.621] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T20:22:15.621] [DEBUG] cheese - 123
+[2019-08-07T20:22:15.624] [DEBUG] cheese - null
+[2019-08-07T20:22:15.624] [DEBUG] cheese - null
+[2019-08-07T20:24:28.583] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T20:24:28.584] [DEBUG] cheese - 123
+[2019-08-07T20:24:28.587] [DEBUG] cheese - null
+[2019-08-07T20:24:28.587] [DEBUG] cheese - null
+[2019-08-07T20:24:52.720] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T20:24:52.721] [DEBUG] cheese - 123
+[2019-08-07T20:24:52.724] [DEBUG] cheese - null
+[2019-08-07T20:24:52.724] [DEBUG] cheese - null
+[2019-08-07T20:25:39.558] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T20:25:39.558] [DEBUG] cheese - 123
+[2019-08-07T20:25:39.562] [DEBUG] cheese - null
+[2019-08-07T20:25:39.562] [DEBUG] cheese - null
+[2019-08-07T20:25:47.964] [DEBUG] cheese - login => username:123,password:123123123123123
+[2019-08-07T20:25:47.965] [DEBUG] cheese - 123
+[2019-08-07T20:25:47.968] [DEBUG] cheese - null
+[2019-08-07T20:25:47.968] [DEBUG] cheese - null
+[2019-08-07T20:25:50.160] [DEBUG] cheese - login => username:123123123,password:123123123123123
+[2019-08-07T20:25:50.160] [DEBUG] cheese - 123123123
+[2019-08-07T20:25:50.165] [DEBUG] cheese - null
+[2019-08-07T20:25:50.165] [DEBUG] cheese - null
+[2019-08-07T20:25:50.840] [DEBUG] cheese - login => username:123123123,password:123123123123123
+[2019-08-07T20:25:50.840] [DEBUG] cheese - 123123123
+[2019-08-07T20:25:50.843] [DEBUG] cheese - null
+[2019-08-07T20:25:50.843] [DEBUG] cheese - null
+[2019-08-07T20:25:56.717] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T20:25:56.717] [DEBUG] cheese - 123
+[2019-08-07T20:25:56.720] [DEBUG] cheese - null
+[2019-08-07T20:25:56.720] [DEBUG] cheese - null
+[2019-08-07T20:26:29.447] [DEBUG] cheese - login => username:123,password:12312312
+[2019-08-07T20:26:29.447] [DEBUG] cheese - 123
+[2019-08-07T20:26:29.481] [DEBUG] cheese - null
+[2019-08-07T20:26:29.481] [DEBUG] cheese - null
+[2019-08-07T20:27:46.957] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T20:27:46.958] [DEBUG] cheese - 123
+[2019-08-07T20:27:46.960] [DEBUG] cheese - null
+[2019-08-07T20:27:46.960] [DEBUG] cheese - null
+[2019-08-07T20:27:51.026] [DEBUG] cheese - login => username:123123,password:123123
+[2019-08-07T20:27:51.026] [DEBUG] cheese - 123123
+[2019-08-07T20:27:51.029] [DEBUG] cheese - null
+[2019-08-07T20:27:51.029] [DEBUG] cheese - null
+[2019-08-07T20:27:54.692] [DEBUG] cheese - login => username:admin,password:123123
+[2019-08-07T20:27:54.692] [DEBUG] cheese - admin
+[2019-08-07T20:27:54.696] [DEBUG] cheese - null
+[2019-08-07T20:27:54.696] [DEBUG] cheese - null
+[2019-08-07T20:27:59.640] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T20:27:59.640] [DEBUG] cheese - admin
+[2019-08-07T20:27:59.644] [DEBUG] cheese - null
+[2019-08-07T20:27:59.644] [DEBUG] cheese - null
+[2019-08-07T20:55:39.515] [DEBUG] cheese - login => username:123,password:qweqwe
+[2019-08-07T20:55:39.516] [DEBUG] cheese - 123
+[2019-08-07T20:55:39.524] [DEBUG] cheese - null
+[2019-08-07T20:55:39.524] [DEBUG] cheese - null
+[2019-08-07T20:55:45.334] [DEBUG] cheese - login => username:admin,password:123123
+[2019-08-07T20:55:45.334] [DEBUG] cheese - admin
+[2019-08-07T20:55:45.344] [DEBUG] cheese - null
+[2019-08-07T20:55:45.344] [DEBUG] cheese - null
+[2019-08-07T20:55:49.867] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T20:55:49.867] [DEBUG] cheese - admin
+[2019-08-07T20:55:49.870] [DEBUG] cheese - null
+[2019-08-07T20:55:49.870] [DEBUG] cheese - null
+[2019-08-07T21:16:24.842] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T21:16:24.843] [DEBUG] cheese - admin
+[2019-08-07T21:16:24.892] [DEBUG] cheese - null
+[2019-08-07T21:16:24.892] [DEBUG] cheese - null
+[2019-08-07T21:35:42.945] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T21:35:42.946] [DEBUG] cheese - admin
+[2019-08-07T21:35:42.996] [DEBUG] cheese - null
+[2019-08-07T21:35:42.996] [DEBUG] cheese - null
+[2019-08-07T21:45:39.800] [DEBUG] cheese - login => username:admin,password:123123
+[2019-08-07T21:45:39.800] [DEBUG] cheese - admin
+[2019-08-07T21:45:39.806] [DEBUG] cheese - null
+[2019-08-07T21:45:39.806] [DEBUG] cheese - null
+[2019-08-07T21:48:11.235] [DEBUG] cheese - login => username:123123,password:123123
+[2019-08-07T21:48:11.235] [DEBUG] cheese - 123123
+[2019-08-07T21:48:11.238] [DEBUG] cheese - null
+[2019-08-07T21:48:11.238] [DEBUG] cheese - null
+[2019-08-07T21:48:11.396] [DEBUG] cheese - login => username:123123,password:123123
+[2019-08-07T21:48:11.396] [DEBUG] cheese - 123123
+[2019-08-07T21:48:11.398] [DEBUG] cheese - null
+[2019-08-07T21:48:11.398] [DEBUG] cheese - null
+[2019-08-07T21:48:11.549] [DEBUG] cheese - login => username:123123,password:123123
+[2019-08-07T21:48:11.549] [DEBUG] cheese - 123123
+[2019-08-07T21:48:11.552] [DEBUG] cheese - null
+[2019-08-07T21:48:11.552] [DEBUG] cheese - null
+[2019-08-07T21:48:18.119] [DEBUG] cheese - login => username:123123,password:123123
+[2019-08-07T21:48:18.119] [DEBUG] cheese - 123123
+[2019-08-07T21:48:18.121] [DEBUG] cheese - null
+[2019-08-07T21:48:18.121] [DEBUG] cheese - null
+[2019-08-07T21:48:29.437] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T21:48:29.437] [DEBUG] cheese - admin
+[2019-08-07T21:48:29.442] [DEBUG] cheese - null
+[2019-08-07T21:48:29.442] [DEBUG] cheese - null
+[2019-08-07T21:48:37.596] [DEBUG] cheese - login => username:123,password:123123213
+[2019-08-07T21:48:37.596] [DEBUG] cheese - 123
+[2019-08-07T21:48:37.601] [DEBUG] cheese - null
+[2019-08-07T21:48:37.601] [DEBUG] cheese - null
+[2019-08-07T21:51:55.203] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T21:51:55.203] [DEBUG] cheese - 123
+[2019-08-07T21:51:55.207] [DEBUG] cheese - null
+[2019-08-07T21:51:55.207] [DEBUG] cheese - null
+[2019-08-07T21:51:56.503] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T21:51:56.503] [DEBUG] cheese - 123
+[2019-08-07T21:51:56.505] [DEBUG] cheese - null
+[2019-08-07T21:51:56.505] [DEBUG] cheese - null
+[2019-08-07T21:51:56.958] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T21:51:56.958] [DEBUG] cheese - 123
+[2019-08-07T21:51:56.960] [DEBUG] cheese - null
+[2019-08-07T21:51:56.960] [DEBUG] cheese - null
+[2019-08-07T21:51:57.129] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T21:51:57.129] [DEBUG] cheese - 123
+[2019-08-07T21:51:57.132] [DEBUG] cheese - null
+[2019-08-07T21:51:57.132] [DEBUG] cheese - null
+[2019-08-07T21:51:57.287] [DEBUG] cheese - login => username:123,password:123123
+[2019-08-07T21:51:57.287] [DEBUG] cheese - 123
+[2019-08-07T21:51:57.290] [DEBUG] cheese - null
+[2019-08-07T21:51:57.290] [DEBUG] cheese - null
+[2019-08-07T21:53:13.456] [DEBUG] cheese - login => username:+++5562,password:123123
+[2019-08-07T21:53:13.456] [DEBUG] cheese - +++5562
+[2019-08-07T21:53:13.459] [DEBUG] cheese - null
+[2019-08-07T21:53:13.459] [DEBUG] cheese - null
+[2019-08-07T21:56:46.614] [DEBUG] cheese - login => username:adming,password:121455
+[2019-08-07T21:56:46.614] [DEBUG] cheese - adming
+[2019-08-07T21:56:46.650] [DEBUG] cheese - null
+[2019-08-07T21:56:46.650] [DEBUG] cheese - null
+[2019-08-07T21:56:54.409] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T21:56:54.409] [DEBUG] cheese - admin
+[2019-08-07T21:56:54.413] [DEBUG] cheese - null
+[2019-08-07T21:56:54.413] [DEBUG] cheese - null
+[2019-08-07T21:59:31.451] [DEBUG] cheese - login => username:admin,password:123478
+[2019-08-07T21:59:31.451] [DEBUG] cheese - admin
+[2019-08-07T21:59:31.455] [DEBUG] cheese - null
+[2019-08-07T21:59:31.455] [DEBUG] cheese - null
+[2019-08-07T21:59:36.101] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T21:59:36.101] [DEBUG] cheese - admin
+[2019-08-07T21:59:36.103] [DEBUG] cheese - null
+[2019-08-07T21:59:36.103] [DEBUG] cheese - null
+[2019-08-07T22:10:19.226] [DEBUG] cheese - login => username:admin,password:123123
+[2019-08-07T22:10:19.226] [DEBUG] cheese - admin
+[2019-08-07T22:10:19.231] [DEBUG] cheese - null
+[2019-08-07T22:10:19.231] [DEBUG] cheese - null
+[2019-08-07T22:10:29.169] [DEBUG] cheese - login => username:admin,password:123123
+[2019-08-07T22:10:29.169] [DEBUG] cheese - admin
+[2019-08-07T22:10:29.173] [DEBUG] cheese - null
+[2019-08-07T22:10:29.173] [DEBUG] cheese - null
+[2019-08-07T22:10:32.577] [DEBUG] cheese - login => username:admin,password:123466
+[2019-08-07T22:10:32.577] [DEBUG] cheese - admin
+[2019-08-07T22:10:32.581] [DEBUG] cheese - null
+[2019-08-07T22:10:32.581] [DEBUG] cheese - null
+[2019-08-07T22:10:37.174] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T22:10:37.174] [DEBUG] cheese - admin
+[2019-08-07T22:10:37.177] [DEBUG] cheese - null
+[2019-08-07T22:10:37.177] [DEBUG] cheese - null
+[2019-08-07T22:51:30.000] [DEBUG] cheese - login => username:admin,password:123123
+[2019-08-07T22:51:30.001] [DEBUG] cheese - admin
+[2019-08-07T22:51:30.053] [DEBUG] cheese - null
+[2019-08-07T22:51:30.053] [DEBUG] cheese - null
+[2019-08-07T22:51:38.813] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T22:51:38.813] [DEBUG] cheese - admin
+[2019-08-07T22:51:38.816] [DEBUG] cheese - null
+[2019-08-07T22:51:38.816] [DEBUG] cheese - null
+[2019-08-07T22:51:55.322] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T22:51:55.322] [DEBUG] cheese - admin
+[2019-08-07T22:51:55.325] [DEBUG] cheese - null
+[2019-08-07T22:51:55.325] [DEBUG] cheese - null
+[2019-08-07T22:52:13.863] [DEBUG] cheese - login => username:123123,password:123123123
+[2019-08-07T22:52:13.863] [DEBUG] cheese - 123123
+[2019-08-07T22:52:13.866] [DEBUG] cheese - null
+[2019-08-07T22:52:13.866] [DEBUG] cheese - null
+[2019-08-07T22:52:21.944] [DEBUG] cheese - login => username:123123,password:123123123
+[2019-08-07T22:52:21.944] [DEBUG] cheese - 123123
+[2019-08-07T22:52:21.947] [DEBUG] cheese - null
+[2019-08-07T22:52:21.947] [DEBUG] cheese - null
+[2019-08-07T22:52:31.057] [DEBUG] cheese - login => username:123123,password:123123123123123
+[2019-08-07T22:52:31.057] [DEBUG] cheese - 123123
+[2019-08-07T22:52:31.059] [DEBUG] cheese - null
+[2019-08-07T22:52:31.059] [DEBUG] cheese - null
+[2019-08-07T22:53:29.522] [DEBUG] cheese - login => username:1231,password:123123123
+[2019-08-07T22:53:29.523] [DEBUG] cheese - 1231
+[2019-08-07T22:53:30.197] [DEBUG] cheese - login => username:1231,password:123123123
+[2019-08-07T22:53:30.197] [DEBUG] cheese - 1231
+[2019-08-07T22:53:30.374] [DEBUG] cheese - login => username:1231,password:123123123
+[2019-08-07T22:53:30.374] [DEBUG] cheese - 1231
+[2019-08-07T22:53:30.572] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:30.654] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:30.676] [DEBUG] cheese - login => username:1231,password:123123123
+[2019-08-07T22:53:30.676] [DEBUG] cheese - 1231
+[2019-08-07T22:53:30.862] [DEBUG] cheese - login => username:1231,password:123123123
+[2019-08-07T22:53:30.862] [DEBUG] cheese - 1231
+[2019-08-07T22:53:31.038] [DEBUG] cheese - login => username:1231,password:123123123
+[2019-08-07T22:53:31.038] [DEBUG] cheese - 1231
+[2019-08-07T22:53:31.200] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:31.202] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:31.376] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:31.377] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:31.679] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:31.680] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:31.864] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:31.864] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:32.043] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:32.044] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:32.310] [DEBUG] cheese - login => username:1231,password:123123123
+[2019-08-07T22:53:32.310] [DEBUG] cheese - 1231
+[2019-08-07T22:53:32.517] [DEBUG] cheese - login => username:1231,password:123123123
+[2019-08-07T22:53:32.517] [DEBUG] cheese - 1231
+[2019-08-07T22:53:33.314] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:33.314] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:33.521] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:33.522] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:38.879] [DEBUG] cheese - login => username:admin,password:123123123
+[2019-08-07T22:53:38.880] [DEBUG] cheese - admin
+[2019-08-07T22:53:39.882] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:39.883] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:44.743] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T22:53:44.743] [DEBUG] cheese - admin
+[2019-08-07T22:53:45.745] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:45.746] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:46.869] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T22:53:46.869] [DEBUG] cheese - admin
+[2019-08-07T22:53:47.873] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:47.874] [DEBUG] cheese - 查询失败
+[2019-08-07T22:53:55.756] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-07T22:53:55.756] [DEBUG] cheese - admin
+[2019-08-07T22:53:56.781] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-07T22:53:56.782] [DEBUG] cheese - 查询失败
+[2019-08-08T18:34:21.278] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T18:34:21.285] [DEBUG] cheese - admin
+[2019-08-08T18:34:21.354] [DEBUG] cheese - null
+[2019-08-08T18:34:21.355] [DEBUG] cheese - null
+[2019-08-08T18:34:39.290] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T18:34:39.290] [DEBUG] cheese - admin
+[2019-08-08T18:34:39.293] [DEBUG] cheese - null
+[2019-08-08T18:34:39.294] [DEBUG] cheese - null
+[2019-08-08T18:37:28.928] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T18:37:28.928] [DEBUG] cheese - admin
+[2019-08-08T18:37:28.931] [DEBUG] cheese - null
+[2019-08-08T18:37:28.931] [DEBUG] cheese - null
+[2019-08-08T19:33:58.532] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T19:33:58.533] [DEBUG] cheese - admin
+[2019-08-08T19:33:58.626] [DEBUG] cheese - null
+[2019-08-08T19:33:58.626] [DEBUG] cheese - null
+[2019-08-08T19:34:35.124] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T19:34:35.124] [DEBUG] cheese - admin
+[2019-08-08T19:34:35.128] [DEBUG] cheese - null
+[2019-08-08T19:34:35.128] [DEBUG] cheese - null
+[2019-08-08T19:34:37.513] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T19:34:37.513] [DEBUG] cheese - admin
+[2019-08-08T19:34:37.515] [DEBUG] cheese - null
+[2019-08-08T19:34:37.515] [DEBUG] cheese - null
+[2019-08-08T19:35:05.436] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T19:35:05.436] [DEBUG] cheese - admin
+[2019-08-08T19:35:05.439] [DEBUG] cheese - null
+[2019-08-08T19:35:05.439] [DEBUG] cheese - null
+[2019-08-08T20:10:23.402] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T20:10:23.404] [DEBUG] cheese - admin
+[2019-08-08T20:10:23.431] [DEBUG] cheese - null
+[2019-08-08T20:10:23.431] [DEBUG] cheese - null
+[2019-08-08T20:37:21.780] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T20:37:21.781] [DEBUG] cheese - admin
+[2019-08-08T20:37:21.799] [DEBUG] cheese - null
+[2019-08-08T20:37:21.799] [DEBUG] cheese - null
+[2019-08-08T20:37:38.976] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T20:37:38.976] [DEBUG] cheese - admin
+[2019-08-08T20:37:38.979] [DEBUG] cheese - null
+[2019-08-08T20:37:38.979] [DEBUG] cheese - null
+[2019-08-08T20:38:09.666] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T20:38:09.666] [DEBUG] cheese - admin
+[2019-08-08T20:38:09.668] [DEBUG] cheese - null
+[2019-08-08T20:38:09.668] [DEBUG] cheese - null
+[2019-08-08T20:55:54.502] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-08T20:55:54.503] [DEBUG] cheese - admin
+[2019-08-08T20:55:54.508] [DEBUG] cheese - null
+[2019-08-08T20:55:54.509] [DEBUG] cheese - null
+[2019-08-09T10:21:08.963] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T10:21:08.967] [DEBUG] cheese - admin
+[2019-08-09T10:21:09.083] [DEBUG] cheese - null
+[2019-08-09T10:21:09.085] [DEBUG] cheese - null
+[2019-08-09T12:49:10.947] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T12:49:11.053] [DEBUG] cheese - admin
+[2019-08-09T12:49:11.541] [DEBUG] cheese - null
+[2019-08-09T12:49:11.557] [DEBUG] cheese - null
+[2019-08-09T12:49:34.424] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T12:49:34.424] [DEBUG] cheese - admin
+[2019-08-09T12:49:34.428] [DEBUG] cheese - null
+[2019-08-09T12:49:34.428] [DEBUG] cheese - null
+[2019-08-09T12:57:39.085] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T12:57:39.085] [DEBUG] cheese - admin
+[2019-08-09T12:57:39.091] [DEBUG] cheese - null
+[2019-08-09T12:57:39.091] [DEBUG] cheese - null
+[2019-08-09T20:34:34.007] [DEBUG] cheese - login => username:1,password:1
+[2019-08-09T20:34:34.008] [DEBUG] cheese - 1
+[2019-08-09T20:34:34.058] [DEBUG] cheese - null
+[2019-08-09T20:34:34.058] [DEBUG] cheese - null
+[2019-08-09T20:34:38.607] [DEBUG] cheese - login => username:1,password:1
+[2019-08-09T20:34:38.608] [DEBUG] cheese - 1
+[2019-08-09T20:34:38.610] [DEBUG] cheese - null
+[2019-08-09T20:34:38.610] [DEBUG] cheese - null
+[2019-08-09T20:45:49.876] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T20:45:49.876] [DEBUG] cheese - admin
+[2019-08-09T20:45:49.880] [DEBUG] cheese - null
+[2019-08-09T20:45:49.880] [DEBUG] cheese - null
+[2019-08-09T20:46:44.653] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T20:46:44.653] [DEBUG] cheese - admin
+[2019-08-09T20:46:44.657] [DEBUG] cheese - null
+[2019-08-09T20:46:44.657] [DEBUG] cheese - null
+[2019-08-09T20:47:17.669] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T20:47:17.669] [DEBUG] cheese - admin
+[2019-08-09T20:47:17.671] [DEBUG] cheese - null
+[2019-08-09T20:47:17.671] [DEBUG] cheese - null
+[2019-08-09T20:48:00.648] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T20:48:00.648] [DEBUG] cheese - admin
+[2019-08-09T20:48:00.651] [DEBUG] cheese - null
+[2019-08-09T20:48:00.651] [DEBUG] cheese - null
+[2019-08-09T20:55:18.557] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T20:55:18.557] [DEBUG] cheese - admin
+[2019-08-09T20:55:19.560] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1104:14)
+    --------------------
+    at Protocol._enqueue (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (D:\LS\Desktop\电商项目\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (D:\LS\Desktop\电商项目\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (D:\LS\Desktop\电商项目\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (D:\LS\Desktop\电商项目\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (D:\LS\Desktop\电商项目\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (D:\LS\Desktop\电商项目\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2019-08-09T20:55:19.567] [DEBUG] cheese - 查询失败
+[2019-08-09T20:56:06.181] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T20:56:06.181] [DEBUG] cheese - admin
+[2019-08-09T20:56:06.222] [DEBUG] cheese - null
+[2019-08-09T20:56:06.222] [DEBUG] cheese - null
+[2019-08-09T20:56:50.857] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T20:56:50.857] [DEBUG] cheese - admin
+[2019-08-09T20:56:50.859] [DEBUG] cheese - null
+[2019-08-09T20:56:50.859] [DEBUG] cheese - null
+[2019-08-09T20:56:52.322] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T20:56:52.323] [DEBUG] cheese - admin
+[2019-08-09T20:56:52.328] [DEBUG] cheese - null
+[2019-08-09T20:56:52.329] [DEBUG] cheese - null
+[2019-08-09T21:01:32.161] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:01:32.161] [DEBUG] cheese - admin
+[2019-08-09T21:01:32.163] [DEBUG] cheese - null
+[2019-08-09T21:01:32.163] [DEBUG] cheese - null
+[2019-08-09T21:01:34.234] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:01:34.234] [DEBUG] cheese - admin
+[2019-08-09T21:01:34.238] [DEBUG] cheese - null
+[2019-08-09T21:01:34.238] [DEBUG] cheese - null
+[2019-08-09T21:01:51.816] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:01:51.816] [DEBUG] cheese - admin
+[2019-08-09T21:01:51.820] [DEBUG] cheese - null
+[2019-08-09T21:01:51.820] [DEBUG] cheese - null
+[2019-08-09T21:01:53.377] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:01:53.378] [DEBUG] cheese - admin
+[2019-08-09T21:01:53.381] [DEBUG] cheese - null
+[2019-08-09T21:01:53.382] [DEBUG] cheese - null
+[2019-08-09T21:01:59.282] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:01:59.282] [DEBUG] cheese - admin
+[2019-08-09T21:01:59.285] [DEBUG] cheese - null
+[2019-08-09T21:01:59.285] [DEBUG] cheese - null
+[2019-08-09T21:05:52.291] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:05:52.291] [DEBUG] cheese - admin
+[2019-08-09T21:05:52.296] [DEBUG] cheese - null
+[2019-08-09T21:05:52.296] [DEBUG] cheese - null
+[2019-08-09T21:09:05.117] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:09:05.117] [DEBUG] cheese - admin
+[2019-08-09T21:09:05.119] [DEBUG] cheese - null
+[2019-08-09T21:09:05.119] [DEBUG] cheese - null
+[2019-08-09T21:10:01.937] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:10:01.937] [DEBUG] cheese - admin
+[2019-08-09T21:10:01.940] [DEBUG] cheese - null
+[2019-08-09T21:10:01.940] [DEBUG] cheese - null
+[2019-08-09T21:10:31.357] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:10:31.357] [DEBUG] cheese - admin
+[2019-08-09T21:10:31.359] [DEBUG] cheese - null
+[2019-08-09T21:10:31.359] [DEBUG] cheese - null
+[2019-08-09T21:11:04.740] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:11:04.740] [DEBUG] cheese - admin
+[2019-08-09T21:11:04.746] [DEBUG] cheese - null
+[2019-08-09T21:11:04.746] [DEBUG] cheese - null
+[2019-08-09T21:11:17.194] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:11:17.194] [DEBUG] cheese - admin
+[2019-08-09T21:11:17.197] [DEBUG] cheese - null
+[2019-08-09T21:11:17.197] [DEBUG] cheese - null
+[2019-08-09T21:11:25.775] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:11:25.775] [DEBUG] cheese - admin
+[2019-08-09T21:11:25.778] [DEBUG] cheese - null
+[2019-08-09T21:11:25.778] [DEBUG] cheese - null
+[2019-08-09T21:11:57.524] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:11:57.524] [DEBUG] cheese - admin
+[2019-08-09T21:11:57.526] [DEBUG] cheese - null
+[2019-08-09T21:11:57.526] [DEBUG] cheese - null
+[2019-08-09T21:13:59.143] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:13:59.143] [DEBUG] cheese - admin
+[2019-08-09T21:13:59.147] [DEBUG] cheese - null
+[2019-08-09T21:13:59.147] [DEBUG] cheese - null
+[2019-08-09T21:33:34.002] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:33:34.002] [DEBUG] cheese - admin
+[2019-08-09T21:33:34.096] [DEBUG] cheese - null
+[2019-08-09T21:33:34.096] [DEBUG] cheese - null
+[2019-08-09T21:33:45.168] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:33:45.168] [DEBUG] cheese - admin
+[2019-08-09T21:33:45.173] [DEBUG] cheese - null
+[2019-08-09T21:33:45.173] [DEBUG] cheese - null
+[2019-08-09T21:34:17.655] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:34:17.656] [DEBUG] cheese - admin
+[2019-08-09T21:34:17.659] [DEBUG] cheese - null
+[2019-08-09T21:34:17.659] [DEBUG] cheese - null
+[2019-08-09T21:36:13.402] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:36:13.402] [DEBUG] cheese - admin
+[2019-08-09T21:36:13.413] [DEBUG] cheese - null
+[2019-08-09T21:36:13.413] [DEBUG] cheese - null
+[2019-08-09T21:37:00.443] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:37:00.443] [DEBUG] cheese - admin
+[2019-08-09T21:37:00.447] [DEBUG] cheese - null
+[2019-08-09T21:37:00.447] [DEBUG] cheese - null
+[2019-08-09T21:44:31.584] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:44:31.584] [DEBUG] cheese - admin
+[2019-08-09T21:44:31.587] [DEBUG] cheese - null
+[2019-08-09T21:44:31.587] [DEBUG] cheese - null
+[2019-08-09T21:45:00.538] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:45:00.538] [DEBUG] cheese - admin
+[2019-08-09T21:45:00.541] [DEBUG] cheese - null
+[2019-08-09T21:45:00.541] [DEBUG] cheese - null
+[2019-08-09T21:50:58.914] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:50:58.914] [DEBUG] cheese - admin
+[2019-08-09T21:50:58.918] [DEBUG] cheese - null
+[2019-08-09T21:50:58.918] [DEBUG] cheese - null
+[2019-08-09T21:51:26.567] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T21:51:26.567] [DEBUG] cheese - admin
+[2019-08-09T21:51:26.573] [DEBUG] cheese - null
+[2019-08-09T21:51:26.573] [DEBUG] cheese - null
+[2019-08-09T22:18:03.485] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:18:03.486] [DEBUG] cheese - admin
+[2019-08-09T22:18:03.498] [DEBUG] cheese - null
+[2019-08-09T22:18:03.498] [DEBUG] cheese - null
+[2019-08-09T22:21:39.113] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:21:39.113] [DEBUG] cheese - admin
+[2019-08-09T22:21:39.117] [DEBUG] cheese - null
+[2019-08-09T22:21:39.118] [DEBUG] cheese - null
+[2019-08-09T22:38:07.152] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:38:07.152] [DEBUG] cheese - admin
+[2019-08-09T22:38:07.210] [DEBUG] cheese - null
+[2019-08-09T22:38:07.210] [DEBUG] cheese - null
+[2019-08-09T22:38:45.055] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:38:45.055] [DEBUG] cheese - admin
+[2019-08-09T22:38:45.061] [DEBUG] cheese - null
+[2019-08-09T22:38:45.061] [DEBUG] cheese - null
+[2019-08-09T22:41:43.712] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:41:43.712] [DEBUG] cheese - admin
+[2019-08-09T22:41:43.718] [DEBUG] cheese - null
+[2019-08-09T22:41:43.719] [DEBUG] cheese - null
+[2019-08-09T22:41:45.091] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:41:45.091] [DEBUG] cheese - admin
+[2019-08-09T22:41:45.094] [DEBUG] cheese - null
+[2019-08-09T22:41:45.094] [DEBUG] cheese - null
+[2019-08-09T22:43:08.472] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:43:08.472] [DEBUG] cheese - admin
+[2019-08-09T22:43:08.480] [DEBUG] cheese - null
+[2019-08-09T22:43:08.480] [DEBUG] cheese - null
+[2019-08-09T22:43:33.591] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:43:33.591] [DEBUG] cheese - admin
+[2019-08-09T22:43:33.593] [DEBUG] cheese - null
+[2019-08-09T22:43:33.593] [DEBUG] cheese - null
+[2019-08-09T22:44:46.928] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:44:46.928] [DEBUG] cheese - admin
+[2019-08-09T22:44:46.931] [DEBUG] cheese - null
+[2019-08-09T22:44:46.931] [DEBUG] cheese - null
+[2019-08-09T22:45:03.663] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:45:03.663] [DEBUG] cheese - admin
+[2019-08-09T22:45:03.665] [DEBUG] cheese - null
+[2019-08-09T22:45:03.665] [DEBUG] cheese - null
+[2019-08-09T22:45:07.994] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:45:07.994] [DEBUG] cheese - admin
+[2019-08-09T22:45:08.018] [DEBUG] cheese - null
+[2019-08-09T22:45:08.018] [DEBUG] cheese - null
+[2019-08-09T22:50:23.757] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:50:23.757] [DEBUG] cheese - admin
+[2019-08-09T22:50:23.759] [DEBUG] cheese - null
+[2019-08-09T22:50:23.759] [DEBUG] cheese - null
+[2019-08-09T22:50:28.523] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:50:28.523] [DEBUG] cheese - admin
+[2019-08-09T22:50:28.527] [DEBUG] cheese - null
+[2019-08-09T22:50:28.527] [DEBUG] cheese - null
+[2019-08-09T22:51:02.527] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:51:02.527] [DEBUG] cheese - admin
+[2019-08-09T22:51:02.529] [DEBUG] cheese - null
+[2019-08-09T22:51:02.529] [DEBUG] cheese - null
+[2019-08-09T22:51:17.926] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:51:17.926] [DEBUG] cheese - admin
+[2019-08-09T22:51:17.928] [DEBUG] cheese - null
+[2019-08-09T22:51:17.929] [DEBUG] cheese - null
+[2019-08-09T22:51:18.937] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:51:18.937] [DEBUG] cheese - admin
+[2019-08-09T22:51:18.939] [DEBUG] cheese - null
+[2019-08-09T22:51:18.939] [DEBUG] cheese - null
+[2019-08-09T22:57:42.914] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:57:42.914] [DEBUG] cheese - admin
+[2019-08-09T22:57:43.039] [DEBUG] cheese - null
+[2019-08-09T22:57:43.039] [DEBUG] cheese - null
+[2019-08-09T22:58:49.180] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T22:58:49.180] [DEBUG] cheese - admin
+[2019-08-09T22:58:49.182] [DEBUG] cheese - null
+[2019-08-09T22:58:49.183] [DEBUG] cheese - null
+[2019-08-09T23:02:57.013] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-09T23:02:57.013] [DEBUG] cheese - admin
+[2019-08-09T23:02:57.016] [DEBUG] cheese - null
+[2019-08-09T23:02:57.016] [DEBUG] cheese - null
+[2019-08-12T14:17:10.594] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-12T14:17:10.600] [DEBUG] cheese - admin
+[2019-08-12T14:17:10.736] [DEBUG] cheese - null
+[2019-08-12T14:17:10.737] [DEBUG] cheese - null
+[2019-08-12T14:23:49.226] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-12T14:23:49.227] [DEBUG] cheese - admin
+[2019-08-12T14:23:49.231] [DEBUG] cheese - null
+[2019-08-12T14:23:49.231] [DEBUG] cheese - null
+[2019-08-12T14:38:39.434] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-12T14:38:39.434] [DEBUG] cheese - admin
+[2019-08-12T14:38:39.436] [DEBUG] cheese - null
+[2019-08-12T14:38:39.436] [DEBUG] cheese - null
+[2019-08-12T14:39:58.311] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-12T14:39:58.311] [DEBUG] cheese - admin
+[2019-08-12T14:39:58.313] [DEBUG] cheese - null
+[2019-08-12T14:39:58.314] [DEBUG] cheese - null
+[2019-08-12T14:55:29.832] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-12T14:55:29.833] [DEBUG] cheese - admin
+[2019-08-12T14:55:29.836] [DEBUG] cheese - null
+[2019-08-12T14:55:29.836] [DEBUG] cheese - null
+[2019-08-12T15:44:57.308] [DEBUG] cheese - login => username:wurongH,password:123456
+[2019-08-12T15:44:57.309] [DEBUG] cheese - wurongH
+[2019-08-12T15:44:57.311] [DEBUG] cheese - null
+[2019-08-12T15:44:57.311] [DEBUG] cheese - null
+[2019-08-12T15:45:01.608] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-12T15:45:01.609] [DEBUG] cheese - admin
+[2019-08-12T15:45:01.611] [DEBUG] cheese - null
+[2019-08-12T15:45:01.611] [DEBUG] cheese - null
+[2019-08-12T15:45:16.706] [DEBUG] cheese - login => username:wurongH,password:123456
+[2019-08-12T15:45:16.706] [DEBUG] cheese - wurongH
+[2019-08-12T15:45:16.708] [DEBUG] cheese - null
+[2019-08-12T15:45:16.708] [DEBUG] cheese - null
+[2019-08-12T15:45:21.064] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-12T15:45:21.064] [DEBUG] cheese - admin
+[2019-08-12T15:45:21.066] [DEBUG] cheese - null
+[2019-08-12T15:45:21.066] [DEBUG] cheese - null
+[2019-08-12T18:28:54.518] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-12T18:28:54.518] [DEBUG] cheese - admin
+[2019-08-12T18:28:54.521] [DEBUG] cheese - null
+[2019-08-12T18:28:54.521] [DEBUG] cheese - null
+[2019-08-12T20:34:46.873] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-12T20:34:46.882] [DEBUG] cheese - admin
+[2019-08-12T20:34:46.886] [DEBUG] cheese - null
+[2019-08-12T20:34:46.886] [DEBUG] cheese - null
+[2019-08-13T17:00:17.744] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-13T17:00:17.749] [DEBUG] cheese - admin
+[2019-08-13T17:00:17.989] [DEBUG] cheese - null
+[2019-08-13T17:00:17.990] [DEBUG] cheese - null
+[2019-08-13T17:01:05.580] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-13T17:01:05.580] [DEBUG] cheese - admin
+[2019-08-13T17:01:05.594] [DEBUG] cheese - null
+[2019-08-13T17:01:05.594] [DEBUG] cheese - null
+[2019-08-13T17:04:43.742] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-13T17:04:43.742] [DEBUG] cheese - admin
+[2019-08-13T17:04:43.756] [DEBUG] cheese - null
+[2019-08-13T17:04:43.756] [DEBUG] cheese - null
+[2019-08-14T10:18:49.157] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-14T10:18:49.158] [DEBUG] cheese - admin
+[2019-08-14T10:18:49.342] [DEBUG] cheese - null
+[2019-08-14T10:18:49.342] [DEBUG] cheese - null
+[2019-08-14T10:23:41.549] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-14T10:23:41.549] [DEBUG] cheese - admin
+[2019-08-14T10:23:41.566] [DEBUG] cheese - null
+[2019-08-14T10:23:41.566] [DEBUG] cheese - null
+[2019-08-14T14:11:29.193] [DEBUG] cheese - null
+[2019-08-14T14:11:31.929] [DEBUG] cheese - null
+[2019-08-14T14:11:34.163] [DEBUG] cheese - null
+[2019-08-14T15:40:20.118] [DEBUG] cheese - null
+[2019-08-14T15:40:50.456] [DEBUG] cheese - null
+[2019-08-14T15:40:55.704] [DEBUG] cheese - null
+[2019-08-14T15:41:33.069] [DEBUG] cheese - null
+[2019-08-14T15:42:30.296] [DEBUG] cheese - null
+[2019-08-14T15:42:33.649] [DEBUG] cheese - null
+[2019-08-14T15:42:36.241] [DEBUG] cheese - null
+[2019-08-14T15:42:39.121] [DEBUG] cheese - null
+[2019-08-14T15:42:43.851] [DEBUG] cheese - null
+[2019-08-14T15:42:47.057] [DEBUG] cheese - null
+[2019-08-14T15:42:49.880] [DEBUG] cheese - null
+[2019-08-14T15:42:52.991] [DEBUG] cheese - null
+[2019-08-14T15:42:57.392] [DEBUG] cheese - null
+[2019-08-14T15:43:09.650] [DEBUG] cheese - null
+[2019-08-14T15:43:12.648] [DEBUG] cheese - null
+[2019-08-14T15:43:15.224] [DEBUG] cheese - null
+[2019-08-14T15:43:17.871] [DEBUG] cheese - null
+[2019-08-14T15:43:22.741] [DEBUG] cheese - null
+[2019-08-14T15:43:24.976] [DEBUG] cheese - null
+[2019-08-14T15:43:26.672] [DEBUG] cheese - null
+[2019-08-14T15:43:29.101] [DEBUG] cheese - null
+[2019-08-14T15:43:32.370] [DEBUG] cheese - null
+[2019-08-14T15:43:49.555] [DEBUG] cheese - null
+[2019-08-14T15:43:52.513] [DEBUG] cheese - null
+[2019-08-14T15:49:27.498] [DEBUG] cheese - null
+[2019-08-14T15:49:30.198] [DEBUG] cheese - null
+[2019-08-14T15:49:35.247] [DEBUG] cheese - null
+[2019-08-14T15:49:37.865] [DEBUG] cheese - null
+[2019-08-14T15:49:42.296] [DEBUG] cheese - null
+[2019-08-14T15:49:45.698] [DEBUG] cheese - null
+[2019-08-14T15:49:50.386] [DEBUG] cheese - null
+[2019-08-14T15:49:52.184] [DEBUG] cheese - null
+[2019-08-14T15:49:58.826] [DEBUG] cheese - null
+[2019-08-14T15:50:01.770] [DEBUG] cheese - null
+[2019-08-14T15:50:36.898] [DEBUG] cheese - null
+[2019-08-14T15:50:39.053] [DEBUG] cheese - null
+[2019-08-14T15:50:43.297] [DEBUG] cheese - null
+[2019-08-14T15:50:46.481] [DEBUG] cheese - null
+[2019-08-14T15:50:49.039] [DEBUG] cheese - null
+[2019-08-14T15:50:51.778] [DEBUG] cheese - null
+[2019-08-14T15:50:53.943] [DEBUG] cheese - null
+[2019-08-14T15:50:56.503] [DEBUG] cheese - null
+[2019-08-14T15:50:59.384] [DEBUG] cheese - null
+[2019-08-14T15:51:01.465] [DEBUG] cheese - null
+[2019-08-14T15:51:06.224] [DEBUG] cheese - null
+[2019-08-14T15:51:08.804] [DEBUG] cheese - null
+[2019-08-14T15:51:10.824] [DEBUG] cheese - null
+[2019-08-14T15:51:12.872] [DEBUG] cheese - null
+[2019-08-14T15:51:15.871] [DEBUG] cheese - null
+[2019-08-14T15:51:47.639] [DEBUG] cheese - null
+[2019-08-14T15:57:45.861] [DEBUG] cheese - null
+[2019-08-14T16:08:25.637] [DEBUG] cheese - null
+[2019-08-14T16:16:02.436] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-14T16:16:02.436] [DEBUG] cheese - admin
+[2019-08-14T16:16:02.453] [DEBUG] cheese - null
+[2019-08-14T16:16:02.453] [DEBUG] cheese - null
+[2019-08-14T16:16:15.363] [DEBUG] cheese - null
+[2019-08-14T16:16:17.627] [DEBUG] cheese - null
+[2019-08-14T16:16:21.788] [DEBUG] cheese - null
+[2019-08-14T16:16:24.452] [DEBUG] cheese - null
+[2019-08-14T16:16:26.867] [DEBUG] cheese - null
+[2019-08-14T16:16:29.220] [DEBUG] cheese - null
+[2019-08-14T16:16:31.099] [DEBUG] cheese - null
+[2019-08-14T19:38:23.381] [DEBUG] cheese - null
+[2019-08-14T19:38:26.410] [DEBUG] cheese - null
+[2019-08-14T19:38:29.192] [DEBUG] cheese - null
+[2019-08-14T19:38:32.161] [DEBUG] cheese - null
+[2019-08-14T19:38:34.559] [DEBUG] cheese - null
+[2019-08-14T19:38:36.937] [DEBUG] cheese - null
+[2019-08-14T19:38:40.681] [DEBUG] cheese - null
+[2019-08-14T19:39:18.055] [DEBUG] cheese - null
+[2019-08-14T19:39:20.298] [DEBUG] cheese - null
+[2019-08-14T19:39:28.981] [DEBUG] cheese - null
+[2019-08-14T19:39:31.077] [DEBUG] cheese - null
+[2019-08-14T19:40:36.756] [DEBUG] cheese - null
+[2019-08-14T19:41:42.770] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-14T19:41:42.770] [DEBUG] cheese - admin
+[2019-08-14T19:41:42.787] [DEBUG] cheese - null
+[2019-08-14T19:41:42.787] [DEBUG] cheese - null
+[2019-08-14T19:46:04.757] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-14T19:46:04.758] [DEBUG] cheese - admin
+[2019-08-14T19:46:04.786] [DEBUG] cheese - null
+[2019-08-14T19:46:04.786] [DEBUG] cheese - null
+[2019-08-14T19:47:05.507] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-14T19:47:05.507] [DEBUG] cheese - admin
+[2019-08-14T19:47:05.523] [DEBUG] cheese - null
+[2019-08-14T19:47:05.523] [DEBUG] cheese - null
+[2019-08-14T22:42:16.401] [DEBUG] cheese - null
+[2019-08-14T22:42:19.214] [DEBUG] cheese - null
+[2019-08-15T09:54:17.364] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-15T09:54:17.368] [DEBUG] cheese - admin
+[2019-08-15T09:54:17.474] [DEBUG] cheese - null
+[2019-08-15T09:54:17.475] [DEBUG] cheese - null
+[2019-08-15T09:54:30.546] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-15T09:54:30.547] [DEBUG] cheese - admin
+[2019-08-15T09:54:30.549] [DEBUG] cheese - null
+[2019-08-15T09:54:30.549] [DEBUG] cheese - null
+[2019-08-15T10:40:58.853] [DEBUG] cheese - null
+[2019-08-15T10:41:02.072] [DEBUG] cheese - null
+[2019-08-15T10:41:06.818] [DEBUG] cheese - null
+[2019-08-15T10:41:09.297] [DEBUG] cheese - null
+[2019-08-15T10:41:12.809] [DEBUG] cheese - null
+[2019-08-15T10:53:20.651] [DEBUG] cheese - null
+[2019-08-15T10:53:32.947] [DEBUG] cheese - null
+[2019-08-15T10:53:38.593] [DEBUG] cheese - null
+[2019-08-15T10:53:40.946] [DEBUG] cheese - null
+[2019-08-15T10:53:47.610] [DEBUG] cheese - null
+[2019-08-15T10:54:02.100] [DEBUG] cheese - null
+[2019-08-15T10:57:49.690] [DEBUG] cheese - null
+[2019-08-16T18:27:14.587] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-16T18:27:14.588] [DEBUG] cheese - admin
+[2019-08-16T18:27:14.888] [DEBUG] cheese - null
+[2019-08-16T18:27:14.895] [DEBUG] cheese - null
+[2019-08-16T18:28:43.058] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-16T18:28:43.058] [DEBUG] cheese - admin
+[2019-08-16T18:28:43.060] [DEBUG] cheese - null
+[2019-08-16T18:28:43.061] [DEBUG] cheese - null
+[2019-08-16T18:39:41.773] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-16T18:39:41.773] [DEBUG] cheese - admin
+[2019-08-16T18:39:41.777] [DEBUG] cheese - null
+[2019-08-16T18:39:41.777] [DEBUG] cheese - null
+[2019-08-17T19:26:32.905] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-17T19:26:32.916] [DEBUG] cheese - admin
+[2019-08-17T19:26:32.938] [DEBUG] cheese - null
+[2019-08-17T19:26:32.938] [DEBUG] cheese - null
+[2019-08-17T19:29:15.010] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-17T19:29:15.010] [DEBUG] cheese - admin
+[2019-08-17T19:29:15.025] [DEBUG] cheese - null
+[2019-08-17T19:29:15.025] [DEBUG] cheese - null
+[2019-08-18T14:41:10.686] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-18T14:41:10.688] [DEBUG] cheese - admin
+[2019-08-18T14:41:10.733] [DEBUG] cheese - null
+[2019-08-18T14:41:10.733] [DEBUG] cheese - null
+[2019-08-18T14:42:59.350] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-18T14:42:59.350] [DEBUG] cheese - admin
+[2019-08-18T14:42:59.353] [DEBUG] cheese - null
+[2019-08-18T14:42:59.353] [DEBUG] cheese - null
+[2019-08-21T08:27:14.522] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T08:27:14.523] [DEBUG] cheese - admin
+[2019-08-21T08:27:14.547] [DEBUG] cheese - null
+[2019-08-21T08:27:14.547] [DEBUG] cheese - null
+[2019-08-21T08:27:41.209] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T08:27:41.209] [DEBUG] cheese - admin
+[2019-08-21T08:27:41.211] [DEBUG] cheese - null
+[2019-08-21T08:27:41.212] [DEBUG] cheese - null
+[2019-08-21T12:29:35.437] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T12:29:35.437] [DEBUG] cheese - admin
+[2019-08-21T12:29:35.458] [DEBUG] cheese - null
+[2019-08-21T12:29:35.458] [DEBUG] cheese - null
+[2019-08-21T12:29:38.492] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T12:29:38.493] [DEBUG] cheese - admin
+[2019-08-21T12:29:38.495] [DEBUG] cheese - null
+[2019-08-21T12:29:38.495] [DEBUG] cheese - null
+[2019-08-21T13:02:07.079] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:02:07.080] [DEBUG] cheese - admin
+[2019-08-21T13:02:07.107] [DEBUG] cheese - null
+[2019-08-21T13:02:07.107] [DEBUG] cheese - null
+[2019-08-21T13:12:30.595] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:12:30.595] [DEBUG] cheese - admin
+[2019-08-21T13:12:30.597] [DEBUG] cheese - null
+[2019-08-21T13:12:30.597] [DEBUG] cheese - null
+[2019-08-21T13:12:41.522] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:12:41.522] [DEBUG] cheese - admin
+[2019-08-21T13:12:41.524] [DEBUG] cheese - null
+[2019-08-21T13:12:41.524] [DEBUG] cheese - null
+[2019-08-21T13:12:49.934] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:12:49.934] [DEBUG] cheese - admin
+[2019-08-21T13:12:49.937] [DEBUG] cheese - null
+[2019-08-21T13:12:49.937] [DEBUG] cheese - null
+[2019-08-21T13:17:46.956] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:17:46.956] [DEBUG] cheese - admin
+[2019-08-21T13:17:46.958] [DEBUG] cheese - null
+[2019-08-21T13:17:46.958] [DEBUG] cheese - null
+[2019-08-21T13:22:27.347] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:22:27.347] [DEBUG] cheese - admin
+[2019-08-21T13:22:27.351] [DEBUG] cheese - null
+[2019-08-21T13:22:27.351] [DEBUG] cheese - null
+[2019-08-21T13:26:17.281] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:26:17.282] [DEBUG] cheese - admin
+[2019-08-21T13:26:17.284] [DEBUG] cheese - null
+[2019-08-21T13:26:17.284] [DEBUG] cheese - null
+[2019-08-21T13:26:41.303] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:26:41.304] [DEBUG] cheese - admin
+[2019-08-21T13:26:41.306] [DEBUG] cheese - null
+[2019-08-21T13:26:41.306] [DEBUG] cheese - null
+[2019-08-21T13:31:33.154] [DEBUG] cheese - login => username:admin,password:123123
+[2019-08-21T13:31:33.155] [DEBUG] cheese - admin
+[2019-08-21T13:31:33.174] [DEBUG] cheese - null
+[2019-08-21T13:31:33.174] [DEBUG] cheese - null
+[2019-08-21T13:31:37.549] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:31:37.549] [DEBUG] cheese - admin
+[2019-08-21T13:31:37.551] [DEBUG] cheese - null
+[2019-08-21T13:31:37.551] [DEBUG] cheese - null
+[2019-08-21T13:31:45.974] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:31:45.974] [DEBUG] cheese - admin
+[2019-08-21T13:31:45.976] [DEBUG] cheese - null
+[2019-08-21T13:31:45.976] [DEBUG] cheese - null
+[2019-08-21T13:41:15.738] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:41:15.738] [DEBUG] cheese - admin
+[2019-08-21T13:41:15.741] [DEBUG] cheese - null
+[2019-08-21T13:41:15.741] [DEBUG] cheese - null
+[2019-08-21T13:41:18.524] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:41:18.524] [DEBUG] cheese - admin
+[2019-08-21T13:41:18.526] [DEBUG] cheese - null
+[2019-08-21T13:41:18.526] [DEBUG] cheese - null
+[2019-08-21T13:41:21.070] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:41:21.071] [DEBUG] cheese - admin
+[2019-08-21T13:41:21.073] [DEBUG] cheese - null
+[2019-08-21T13:41:21.073] [DEBUG] cheese - null
+[2019-08-21T13:41:23.836] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:41:23.836] [DEBUG] cheese - admin
+[2019-08-21T13:41:23.839] [DEBUG] cheese - null
+[2019-08-21T13:41:23.839] [DEBUG] cheese - null
+[2019-08-21T13:52:17.448] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T13:52:17.448] [DEBUG] cheese - admin
+[2019-08-21T13:52:17.451] [DEBUG] cheese - null
+[2019-08-21T13:52:17.452] [DEBUG] cheese - null
+[2019-08-21T16:40:46.343] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T16:40:46.343] [DEBUG] cheese - admin
+[2019-08-21T16:40:46.347] [DEBUG] cheese - null
+[2019-08-21T16:40:46.347] [DEBUG] cheese - null
+[2019-08-21T17:26:39.850] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-21T17:26:39.850] [DEBUG] cheese - admin
+[2019-08-21T17:26:39.854] [DEBUG] cheese - null
+[2019-08-21T17:26:39.854] [DEBUG] cheese - null
+[2019-08-22T09:33:56.792] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-22T09:33:56.799] [DEBUG] cheese - admin
+[2019-08-22T09:33:56.911] [DEBUG] cheese - null
+[2019-08-22T09:33:56.912] [DEBUG] cheese - null
+[2019-08-22T09:34:43.376] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-22T09:34:43.376] [DEBUG] cheese - admin
+[2019-08-22T09:34:43.380] [DEBUG] cheese - null
+[2019-08-22T09:34:43.380] [DEBUG] cheese - null
+[2019-08-23T09:35:37.625] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-23T09:35:37.625] [DEBUG] cheese - admin
+[2019-08-23T09:35:37.631] [DEBUG] cheese - null
+[2019-08-23T09:35:37.631] [DEBUG] cheese - null
+[2019-08-23T09:49:01.419] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-23T09:49:01.419] [DEBUG] cheese - admin
+[2019-08-23T09:49:01.423] [DEBUG] cheese - null
+[2019-08-23T09:49:01.423] [DEBUG] cheese - null
+[2019-08-23T09:53:15.554] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-23T09:53:15.554] [DEBUG] cheese - admin
+[2019-08-23T09:53:15.557] [DEBUG] cheese - null
+[2019-08-23T09:53:15.557] [DEBUG] cheese - null
+[2019-08-23T14:35:22.160] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-23T14:35:22.160] [DEBUG] cheese - admin
+[2019-08-23T14:35:22.164] [DEBUG] cheese - null
+[2019-08-23T14:35:22.164] [DEBUG] cheese - null
+[2019-08-23T14:38:42.192] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-23T14:38:42.192] [DEBUG] cheese - admin
+[2019-08-23T14:38:42.197] [DEBUG] cheese - null
+[2019-08-23T14:38:42.197] [DEBUG] cheese - null
+[2019-08-23T20:25:43.988] [DEBUG] cheese - null
+[2019-08-23T20:26:01.586] [DEBUG] cheese - null
+[2019-08-23T20:30:54.048] [DEBUG] cheese - null
+[2019-08-23T20:31:01.954] [DEBUG] cheese - null
+[2019-08-23T20:32:26.912] [DEBUG] cheese - null
+[2019-08-23T20:35:56.064] [DEBUG] cheese - null
+[2019-08-23T20:36:08.100] [DEBUG] cheese - null
+[2019-08-23T20:36:20.581] [DEBUG] cheese - null
+[2019-08-23T20:36:25.638] [DEBUG] cheese - null
+[2019-08-23T20:38:32.037] [DEBUG] cheese - null
+[2019-08-23T20:48:36.139] [DEBUG] cheese - null
+[2019-08-23T20:49:27.819] [DEBUG] cheese - null
+[2019-08-23T20:49:31.811] [DEBUG] cheese - null
+[2019-08-23T20:49:32.719] [DEBUG] cheese - null
+[2019-08-23T20:49:39.110] [DEBUG] cheese - null
+[2019-08-23T20:49:40.110] [DEBUG] cheese - null
+[2019-08-23T20:49:41.080] [DEBUG] cheese - null
+[2019-08-23T20:49:44.788] [DEBUG] cheese - null
+[2019-08-23T20:50:01.738] [DEBUG] cheese - null
+[2019-08-23T20:50:30.699] [DEBUG] cheese - null
+[2019-08-23T21:22:36.822] [DEBUG] cheese - null
+[2019-08-23T21:22:37.703] [DEBUG] cheese - null
+[2019-08-23T21:22:39.437] [DEBUG] cheese - null
+[2019-08-23T21:22:39.960] [DEBUG] cheese - null
+[2019-08-23T21:22:40.141] [DEBUG] cheese - null
+[2019-08-23T21:22:40.488] [DEBUG] cheese - null
+[2019-08-23T21:22:40.652] [DEBUG] cheese - null
+[2019-08-23T21:22:40.827] [DEBUG] cheese - null
+[2019-08-23T21:22:53.304] [DEBUG] cheese - null
+[2019-08-24T13:44:34.480] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-24T13:44:34.480] [DEBUG] cheese - admin
+[2019-08-24T13:44:34.497] [DEBUG] cheese - null
+[2019-08-24T13:44:34.497] [DEBUG] cheese - null
+[2019-08-24T15:15:18.807] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-24T15:15:18.807] [DEBUG] cheese - admin
+[2019-08-24T15:15:18.841] [DEBUG] cheese - null
+[2019-08-24T15:15:18.841] [DEBUG] cheese - null
+[2019-08-26T20:48:29.289] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-26T20:48:29.293] [DEBUG] cheese - admin
+[2019-08-26T20:48:29.907] [DEBUG] cheese - null
+[2019-08-26T20:48:29.907] [DEBUG] cheese - null
+[2019-08-26T20:50:50.926] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-26T20:50:50.926] [DEBUG] cheese - admin
+[2019-08-26T20:50:50.929] [DEBUG] cheese - null
+[2019-08-26T20:50:50.929] [DEBUG] cheese - null
+[2019-08-26T22:12:48.594] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-26T22:12:48.594] [DEBUG] cheese - admin
+[2019-08-26T22:12:48.603] [DEBUG] cheese - null
+[2019-08-26T22:12:48.603] [DEBUG] cheese - null
+[2019-08-28T09:20:22.206] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-28T09:20:22.217] [DEBUG] cheese - admin
+[2019-08-28T09:20:22.247] [DEBUG] cheese - null
+[2019-08-28T09:20:22.248] [DEBUG] cheese - null
+[2019-08-28T09:20:23.941] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-28T09:20:23.941] [DEBUG] cheese - admin
+[2019-08-28T09:20:23.944] [DEBUG] cheese - null
+[2019-08-28T09:20:23.944] [DEBUG] cheese - null
+[2019-08-29T08:12:26.105] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-29T08:12:26.108] [DEBUG] cheese - admin
+[2019-08-29T08:12:26.191] [DEBUG] cheese - null
+[2019-08-29T08:12:26.192] [DEBUG] cheese - null
+[2019-08-29T08:13:01.309] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-29T08:13:01.309] [DEBUG] cheese - admin
+[2019-08-29T08:13:01.311] [DEBUG] cheese - null
+[2019-08-29T08:13:01.311] [DEBUG] cheese - null
+[2019-08-29T10:40:36.835] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-29T10:40:36.835] [DEBUG] cheese - admin
+[2019-08-29T10:40:36.856] [DEBUG] cheese - null
+[2019-08-29T10:40:36.856] [DEBUG] cheese - null
+[2019-08-29T11:18:28.528] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-29T11:18:28.528] [DEBUG] cheese - admin
+[2019-08-29T11:18:28.532] [DEBUG] cheese - null
+[2019-08-29T11:18:28.532] [DEBUG] cheese - null
+[2019-08-29T11:25:09.010] [DEBUG] cheese - null
+[2019-08-29T11:32:32.821] [DEBUG] cheese - null
+[2019-08-29T11:32:40.092] [DEBUG] cheese - null
+[2019-08-29T11:33:14.352] [DEBUG] cheese - null
+[2019-08-29T11:33:21.862] [DEBUG] cheese - null
+[2019-08-29T15:28:31.298] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-29T15:28:31.299] [DEBUG] cheese - admin
+[2019-08-29T15:28:31.304] [DEBUG] cheese - null
+[2019-08-29T15:28:31.304] [DEBUG] cheese - null
+[2019-08-29T21:06:25.924] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-29T21:06:25.941] [DEBUG] cheese - admin
+[2019-08-29T21:06:25.970] [DEBUG] cheese - null
+[2019-08-29T21:06:25.971] [DEBUG] cheese - null
+[2019-08-29T21:25:37.668] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-29T21:25:37.668] [DEBUG] cheese - admin
+[2019-08-29T21:25:37.673] [DEBUG] cheese - null
+[2019-08-29T21:25:37.673] [DEBUG] cheese - null
+[2019-08-29T22:09:36.770] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-29T22:09:36.770] [DEBUG] cheese - admin
+[2019-08-29T22:09:36.776] [DEBUG] cheese - null
+[2019-08-29T22:09:36.776] [DEBUG] cheese - null
+[2019-08-29T22:18:57.809] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-29T22:18:57.809] [DEBUG] cheese - admin
+[2019-08-29T22:18:57.812] [DEBUG] cheese - null
+[2019-08-29T22:18:57.812] [DEBUG] cheese - null
+[2019-08-29T22:19:50.564] [DEBUG] cheese - login => username:admin,password:123456
+[2019-08-29T22:19:50.564] [DEBUG] cheese - admin
+[2019-08-29T22:19:50.566] [DEBUG] cheese - null
+[2019-08-29T22:19:50.566] [DEBUG] cheese - null
